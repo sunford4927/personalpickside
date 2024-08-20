@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/personal-pick/static/css/main.a2e55f41.css",
+    "main.js": "/personal-pick/static/js/main.edb9a988.js",
+    "static/js/488.261d7ab8.chunk.js": "/personal-pick/static/js/488.261d7ab8.chunk.js",
+    "static/media/smile.png": "/personal-pick/static/media/smile.8b1a2d4f2f0a4a91be71.png",
+    "static/media/빈별.png": "/personal-pick/static/media/빈별.bc12b4988c873d280e59.png",
+    "static/media/별.png": "/personal-pick/static/media/별.618d11e122cbca3f8e9e.png",
+    "index.html": "/personal-pick/index.html",
+    "main.a2e55f41.css.map": "/personal-pick/static/css/main.a2e55f41.css.map",
+    "main.edb9a988.js.map": "/personal-pick/static/js/main.edb9a988.js.map",
+    "488.261d7ab8.chunk.js.map": "/personal-pick/static/js/488.261d7ab8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2e55f41.css",
+    "static/js/main.edb9a988.js"
+  ]
+}

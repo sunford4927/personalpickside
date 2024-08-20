@@ -1,0 +1,31 @@
+.detailgraphbar_Container{
+    display: inline-block;
+    width: 37px;
+    text-align: center;
+}
+
+.detailgraphbarchart{
+    // object-fit: fill;
+}
+
+.detailgraphbarchart_back {
+    width: 5px;
+    height: 62px;
+    background-color: rgb(233 227 227);
+    transform: scaleY(-1);
+    transition: 0.3s;
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: auto;
+}
+
+.detailgraphbar_Title{
+    word-break:break-all;
+}
+
+.detailgraphbar_main{
+    display : flex;
+    overflow-x: auto;
+    scrollbar-width: none;
+}
