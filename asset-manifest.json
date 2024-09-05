@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-pick/static/css/main.3a05c491.css",
-    "main.js": "/personal-pick/static/js/main.e19f47f7.js",
+    "main.js": "/personal-pick/static/js/main.db8a4452.js",
     "static/js/488.261d7ab8.chunk.js": "/personal-pick/static/js/488.261d7ab8.chunk.js",
     "static/media/광고배너4.png": "/personal-pick/static/media/광고배너4.6757fd3cfdf062fce5b9.png",
     "static/media/광고배너9.png": "/personal-pick/static/media/광고배너9.0eebf9d186e589725f04.png",
@@ -29,11 +29,11 @@
     "static/media/select_icon.png": "/personal-pick/static/media/select_icon.006222c12550c9ada16f.png",
     "index.html": "/personal-pick/index.html",
     "main.3a05c491.css.map": "/personal-pick/static/css/main.3a05c491.css.map",
-    "main.e19f47f7.js.map": "/personal-pick/static/js/main.e19f47f7.js.map",
+    "main.db8a4452.js.map": "/personal-pick/static/js/main.db8a4452.js.map",
     "488.261d7ab8.chunk.js.map": "/personal-pick/static/js/488.261d7ab8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a05c491.css",
-    "static/js/main.e19f47f7.js"
+    "static/js/main.db8a4452.js"
   ]
 }
